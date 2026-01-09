@@ -1,0 +1,1 @@
+This is a PCI microcontroller library for driving the IS15BAFP4CF Lcd Buttons from NKK Smart Displays.  Acording to the website this code is usually on the development boards for the swithches.  For anyone out there that is willing to write an arduino library with this code, please feel free as this is why I have uploaded the code base here.
